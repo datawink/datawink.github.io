@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Laura Bolsover"
-  avatar           : "/docs/assets/images/bio-photo.jpg"
+  avatar           : #"/docs/assets/images/bio-photo.jpg"
   bio              : "Data Science Portfolio"
   location         : "Boston, MA"
   email            :
@@ -127,6 +127,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/datawink"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
